@@ -5,8 +5,6 @@ import './movie-list.scss'
 
 import { Swiper, SwiperSlide } from "swiper/react";
 
-import { Link } from "react-router-dom";
-import Button, { OutlineButton } from "../button/Button";
 import MovieCard from '../movie-card/MovieCard'
 
 
